@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Button_Switch_SMD)(type KiCad)(uri F:/CN/KiCad/mylib/Button_Switch_SMD.pretty)(options "")(descr ""))
+  (lib (name CNlib)(type KiCad)(uri F:/CN/KiCad/mylib/CNlib.pretty)(options "")(descr ""))
+)
